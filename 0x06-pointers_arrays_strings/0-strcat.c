@@ -1,8 +1,3 @@
-/*
- * File: 0-strcat.c
- * Auth: Geeon Obae Gekonge
- */
-
 #include <stdio.h>
 #include "main.h"
 
